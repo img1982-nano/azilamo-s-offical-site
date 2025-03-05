@@ -9,4 +9,5 @@
   site_name="svelte-suiteを使ったOGPのてすとです"
   description="jillさんすげぇ"
   image="https://media.discordapp.net/attachments/1343264919847436448/1346462061718147122/OGP.png"
+  custom_properties={{"og:video": "https://www.home-movie.biz/mov/hts-samp005.mp4"}}
 />
