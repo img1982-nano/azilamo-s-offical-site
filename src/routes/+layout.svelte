@@ -11,6 +11,10 @@
     site_name="AzilamoOffical"
     image=""
 />
-<ThemeManager />
-<FlipButton />
+<div class="flex justify-end gap-5 mt-2">
+    <a class="text-bold text-2xl text-black dark:text-white" href="/about">About</a>
+    <a class="text-bold text-2xl text-black dark:text-white" href="/">Home</a>
+    <ThemeManager />
+    <FlipButton />
+</div>
 {@render children()}
