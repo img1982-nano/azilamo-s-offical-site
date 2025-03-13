@@ -16,3 +16,4 @@
     <a class="text-blue-500" href={bluesky}>Bluesky</a>
     <a class="text-blue-300" href={zenn}>Zenn</a>
 </div>
+<p class="text-black dark:text-white flex justify-end">(im amanens)</p>
