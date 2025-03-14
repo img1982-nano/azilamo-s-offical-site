@@ -6,9 +6,9 @@
     let { children } = $props();
 </script>
 <OGP 
-    title="AzilamoOffical"
-    description="AzilamoOffical's website"
-    site_name="AzilamoOffical"
+    title="Azilamo"
+    description="Azilamo's website"
+    site_name="Azilamo"
     image="/ogp-img-1.png"
 />
 <div class="flex justify-end gap-5 mt-2">
