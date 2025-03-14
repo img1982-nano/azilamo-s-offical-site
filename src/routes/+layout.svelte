@@ -9,7 +9,7 @@
     title="AzilamoOffical"
     description="AzilamoOffical's website"
     site_name="AzilamoOffical"
-    image=""
+    image="static/ogp-img-1.png"
 />
 <div class="flex justify-end gap-5 mt-2">
     <a class="text-bold text-2xl text-yellow-500 dark:text-yellow-300" href="https://azifly.azilamo.com">Azifly-Club(🚧)</a>
