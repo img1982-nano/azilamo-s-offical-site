@@ -1,2 +1,2 @@
 # Azilamo's offical site
-(create now)
+Tailwind + Svelte + JS + bun
