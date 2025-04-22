@@ -13,7 +13,7 @@
         />
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=img1982-nano&show_icons=true&theme=default&hide_border=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
         />
         <img src="https://github-readme-stats.vercel.app/api?username=img1982-nano&show_icons=true" />
       </picture>
@@ -29,4 +29,5 @@
         />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=img1982-nano&show_icons=true" />
     </picture>
+    
 </div>
