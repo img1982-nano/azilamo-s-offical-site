@@ -1,19 +1,17 @@
-import adapter from '@sveltejs/adapter-cloudflare';
 
-export default {
-	kit: {
-		adapter: adapter({
-			// See below for an explanation of these options
-			routes: {
-				include: ['/*'],
-				exclude: ['<all>']
-			}
-/*			platformProxy: {
-				configPath: 'wrangler.toml',
-				environment: undefined,
-				experimentalJsonConfig: false,
-				persist: false
-			}*/
-		})
-	}
-};
+import { sveltePreprocess } from 'svelte-preprocess';  // :contentReference[oaicite:0]{index=0}
+ import { mdsvex } from 'mdsvex';
+
+ export default {
+   extensions: ['.svelte', '.svx'],
+   preprocess: [
+    sveltePreprocess({
+       scss: { includePaths: ['./src/css'] },
+       postcss: true
+     }),
+     mdsvex({ extension: '.svx' })
+   ],
+   kit: {
+     /* … */
+   }
+ };

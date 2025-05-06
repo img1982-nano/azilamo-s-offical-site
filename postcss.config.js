@@ -1,6 +1,5 @@
-import { postcssConfig } from '@jill64/svelte-tailwind'
+// postcss.config.js
+import { postcssConfig } from '@jill64/svelte-tailwind';
 
-/** @type {import('@jill64/svelte-tailwind').PostcssConfig} */
-export default postcssConfig({
-  // ...
-})
+/** @type {import('postcss-load-config').Config} */
+export default postcssConfig();

@@ -1,0 +1,14 @@
+---
+title: FirstPost
+date: '2025-05-08'
+about: "初めての記事"
+---
+
+<h1 class="text-4xl font-bold my-4"># はじめに</h1>
+ブログをつくってみました。私のサイト自体あまりデザインがいい感じではないのですが。
+初心者なので温かい目で見守ってください。
+<h1 class="text-4xl font-bold my-4"># 概要</h1>
+名前:あじらも
+趣味:自宅サーバー、開発、AI、音ゲー(MaimaiでLv.8から進まない初心者)
+<h1 class="text-4xl font-bold my-4"># 書くことない</h1>
+ありがとうございました。

@@ -27,6 +27,7 @@
 		"@jill64/svelte-suite": "^2.2.9",
 		"@jill64/svelte-tailwind": "^1.2.80",
 		"@tailwindcss/vite": "^4.1.4",
+		"mdsvex": "^0.12.5",
 		"tailwindcss": "^4.1.4"
 	}
 }
