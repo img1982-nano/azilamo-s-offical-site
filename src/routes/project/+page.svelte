@@ -7,7 +7,7 @@
       <img src="/counter-demo.png" alt="Counter Demo" class="mb-4 rounded-lg shadow-lg max-w-full h-auto" />
       <p class="font-mono text-gray-700 dark:text-gray-300 text-center mb-4">文字数をカウントする、以上</p>
       <a class="font-mono font-bold text-blue-500 dark:text-blue-400 hover:underline mb-4" href="https://counter.azilamo.com">https://counter.azilamo.com</a>
-      <a href="https://github.com/img1982-nano/Study-Svelte" target="_blank" rel="noopener" class="block">
+      <a href="https://github.com/img1982-nano/learning" target="_blank" rel="noopener" class="block">
           <picture>
             <source 
               srcset="https://github-readme-stats.vercel.app/api/pin/?username=img1982-nano&repo=learning&theme=dark&hide_border=true" 
@@ -43,7 +43,7 @@
       <h2 class="font-mono font-bold text-3xl text-black dark:text-white mb-4">Aziquiz2</h2>
       <p class="font-mono text-gray-700 dark:text-gray-300 text-center mb-4">Aziquizの劇的改良版です</p>
       <a class="font-mono font-bold text-blue-500 dark:text-blue-400 hover:underline mb-4" href="https://quiz2.azilamo.com">未公開</a>
-      <a href="https://github.com/img1982-nano/learning" target="_blank" rel="noopener" class="block">
+      <a href="https://github.com/img1982-nano/Study-Svelte" target="_blank" rel="noopener" class="block">
           <picture>
             <source 
               srcset="https://github-readme-stats.vercel.app/api/pin/?username=img1982-nano&repo=Study-Svelte&theme=dark&hide_border=true" 
