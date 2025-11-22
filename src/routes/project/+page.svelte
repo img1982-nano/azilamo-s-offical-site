@@ -39,5 +39,22 @@
         </picture>
       </a>
     </div>
+    <div class="flex flex-col items-center bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md p-6">
+      <h2 class="font-mono font-bold text-3xl text-black dark:text-white mb-4">Aziquiz2</h2>
+      <p class="font-mono text-gray-700 dark:text-gray-300 text-center mb-4">Aziquizの劇的改良版です</p>
+      <a class="font-mono font-bold text-blue-500 dark:text-blue-400 hover:underline mb-4" href="https://quiz2.azilamo.com">未公開</a>
+      <a href="https://github.com/img1982-nano/learning" target="_blank" rel="noopener" class="block">
+          <picture>
+            <source 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=img1982-nano&repo=Study-Svelte&theme=dark&hide_border=true" 
+              type="image/svg+xml">
+            <img 
+              src="https://github-readme-stats.vercel.app/api/pin/?username=img1982-nano&repo=Study-Svelte&theme=dark&hide_border=true" 
+              alt="Readme Card by GitHub Readme Stats"
+              loading="lazy"
+              class="rounded-lg shadow-lg max-w-full h-auto">
+          </picture>
+      </a>
+    </div>
   </div>
 </div>
